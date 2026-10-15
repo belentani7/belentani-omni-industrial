@@ -1,0 +1,28 @@
+# Git Ignore
+
+# Dependencies
+/node_modules/
+/.pnp/
+/package-lock.json
+
+# Runtime stuff
+/.next/
+/out/
+
+# Build artifacts
+/dist/
+/.out/
+
+# Environment
+/.env.local
+/.env.*.local
+
+# IDE
+/.vscode/
+/.ts arqueiro/
+
+# Logs
+/*.log
+
+# Vercel
+/.vercel
